@@ -1,0 +1,69 @@
+13030: निसमुपविभ्यो ह्वः
+========================
+
+**Padacheda:** नि-सम्-उप-विभ्यः | S | 5 | 3 | 
+
+ह्वः | S | 5 | 1 | 
+
+Sutrartha
+---------
+
+**'नि' , 'सम्', 'वि' उपसर्गेभ्यः 'ह्वे' धातोः आत्मनेपदस्य प्रत्ययाः भवन्ति ।**
+
+ह्वेञ् (स्पर्धायां शब्दे च) अयं धातुः वस्तुतः उभयपदी अस्ति । परन्तु निस् / नित्/ सम् / उप / वि - एतेभ्यः  अस्य आत्मनेपदस्य प्रत्ययाः भवन्ति । यथा - निह्वयते, संह्वयते, उपह्वयते, विह्वयते (सर्वेषामर्थः - 'आवाहनं करोति'  इति) ।
+
+Sutrartha (English)
+-------------------
+
+When any of the उपसर्गs - नि, सम्, वि - is attached to the verb 'ह्वे', it gets the प्रत्ययाः of आत्मनेपद.
+
+Vasu English Summary
+--------------------
+
+After the verbs ह्वे 'to call', preceded by नि , सम् , उप and वि , the आत्मनेपद is used, even, when the fruit of the action does not accrue to the agent.
+
+Vasu English Translation
+------------------------
+
+After the verbs ह्वे 'to call', preceded by नि , सम् , उप and वि , the आत्मनेपद is used, even, when the fruit of the action does not accrue to the agent.
+The verb ह्वेः 'to call' whether transitive or intransitive is *Atmanepadi* after the above prepositions. The condition of being Intransitive does not apply to this *sutra*, and from this *sutra* forward general rules of *Atmanepada* are treated of. As निह्वयते, संह्वयते, उपह्वयते ॥
+
+The verb ह्वे is marked in the *Dhatupatha* with a ञ् and therefore, by *sutra* 72 of this Chapter, it will take the terminations of the *Atmanepada* when the direct fruit of the action accrues to the agent. But even when the direct fruit of the action does not accrue to the agent, the verb *hve* takes the terminations of the *Atmanepada* when preceded by the above prefixes.
+
+Vart:- The verbs अस् 'to throw' and ऊह 'to note' take optionally *Atmanepada* affixes when compounded with *upasargas*. As निरस्यति—०ते 'he casts out,' समूहति—०ते 'he collects.'
+
+Kashika
+-------
+
+अकर्मकादिति निवृत्तम्। अतः परं सामान्येनात्मनेपदविधानं प्रतिपत्तव्यम्। नि सम् उप वि इत्येवंपूर्वाद् ह्वयतेर्धातोरात्मनेपदं भवति। निह्वयते। संह्वयते। उपह्वयते। विह्वयते। अकर्त्रभिप्रायार्थोऽयमारम्भः। अन्यत्र हि ञित्त्वात् सिद्धमेवात्मनेपदम्॥ उपसर्गादस्यत्यूह्योर्वा वचनम्॥ निरस्यति, निरस्यते। समूहति, समूहते॥
+
+Siddhanta Kaumudi
+-----------------
+
+निह्वयते ॥
+
+Balamanorama
+------------
+
+**निसमुपविभ्यो ह्वः** - निसमुपवि । ह्वेञः कृतात्त्वस्य ह्व इति पञ्चम्यन्तम् । निह्वयते इति । संह्वयते । उपह्वयते । विह्वयते । अकत्र्रभिप्रायार्थमिदम् ।
+
+Padamanjari
+-----------
+
+निह्वयते इति। कथं पुनरत्रात्मनेपदम्, यावता'ह्वा'  इत्याकारान्तादियं पञ्चमि, एकारान्तश्चायम्, न च विकृतिः प्रकृतिं संगृह्णाति? सत्यम्; आकारान्तात्पञ्चमी, न त्विदं प्रयोगस्थस्याकारान्तस्यानुकरणम्, किं तर्हि? धातुपाठेऽवस्थितैकारान्तस्य तस्यैव लक्षणवशादात्वम्। न चातुक्रियमाणरूपविनाशप्रसङ्गः; शास्त्रवासनया तस्यैव प्रतीतेः, यथा -'यस्येति च'  इतीकाराकारयोः॥
+
+Prakriyasarvasvam
+-----------------
+
+अकर्मकादिति निवृत्तम् । निह्नयते गामित्यादि । ‘उपसर्गादस्यत्यूह्योर्वा- वचनम्' (वा०) । निरस्यते, निरस्यति । समूहते, समूहति ।
+
+Vartika
+-------
+
+उपसर्गादस्यत्यूह्योर्वा वचनम् ।
+
+Sutra Prayogas
+--------------
+
+* **उपाह्वये** (भट्टिकाव्यम्): `नि-समुपविभ्यो ह्वः` इत्यकर्त्रभिप्राये लट्लोटोरात्मनेपदम्।
+

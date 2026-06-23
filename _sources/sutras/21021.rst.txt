@@ -1,0 +1,56 @@
+21021: अन्यपदार्थे च संज्ञायाम्
+===============================
+
+**Padacheda:** अन्य-पदार्थे | S | 7 | 1 | 
+
+च | S | 0 | 0 | 
+
+संज्ञायाम् | S | 7 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+A word ending in a case-affix is compounded with words denoting the names of rivers, when the compound word denotes a thing other than that expressed by the terms of the compound and is an appellative, the compound so formed being an अव्ययीभाव ।
+
+Vasu English Translation
+------------------------
+
+A word ending in a case-affix is compounded with words denoting the names of rivers, when the compound word denotes a thing other than that expressed by the terms of the compound and is an appellative, the compound so formed being an अव्ययीभाव ।
+The *anuvritti* of the word *samkhyå* does not extend to this *sutra*. Though this rule is given in the sub-division relating to optional compounds it is, however, a *Nitya-samasa* rule : for no Name (सञ्ज्ञा) can ever be expressed by a sentence, and that being so, these compounds can never be analysed. As उन्मत्तगङ्गम् ' the country called *Unmatta Ganges* .' So also लोहितगङ्गम्, कृष्णगङ्गम् ; शनैर्गङ्गम्.
+
+Why do we say 'when it denotes a thing other than that expressed by the component parts of the compound' ? Observe कृष्णवेण the 'river *Krishnavena*.'
+
+Why do we say 'when it expresses an Appellative' ? Observe शीर्घो गङ्गो देशः ' the country where the *Ganges* moves rapidly.'
+
+Kashika
+-------
+
+संख्येति निवृत्तम्, नदीग्रहणमनुवर्तते। नदीभिः सह सुबन्तमन्यपदार्थे वर्तमानं संज्ञायां विषये समस्यते, अव्ययीभावश्च समासो भवति। विभाषाधिकारेऽपि नित्यसमास एवायम्। नहि वाक्येन संज्ञा गम्यते। उन्मत्तगङ्गं नाम देशः। लोहितगङ्गम्। कृष्णगङ्गम्। शनैर्गङ्गम्। अन्यपदार्थ इति किम्? कृष्णवेण्णा। संज्ञायामिति किम्? शीघ्रगङ्गो देशः॥
+
+Siddhanta Kaumudi
+-----------------
+
+अन्यपदार्थे विद्यमानं सुबन्तं नदीभिः सह नित्यं समस्यते संज्ञायाम् । विभाषाधिकारेऽपि वाक्येन संज्ञानवगमादिह नित्यसमासः । उन्मत्तगङ्गं नाम देशः । लोहितगङ्गम् ॥
+
+Nyaas
+-----
+
+`कृष्णवेण्णा` इति। कृष्णा चासौ वेण्णा चेति विशेषणसमासः। `शीघ्रगङ्गः` इति। बहुव्रीहिः।
+
+Praudhamanorama
+---------------
+
+**नित्यसमास इति।** एतच्च वृत्तौ स्पष्टम्। शाकलसूत्रे कैयटस्वरसोऽप्येवम्। नन्वेवं न्यायसाम्यात् बहुव्रीहेरपि नित्यसमासत्वं स्यादिति चेन्मैवम्, यस्येत्यादिपदान्तरसमभिव्याहारेणान्यपदार्थप्रतीतेः। अत एव संज्ञानवगमात् इत्युक्तं न त्वन्यपदार्थाऽनवगमादिति। संज्ञायां किम्ॽ शीघ्रगङ्गो देशः।
+
+Prakriyasarvasvam
+-----------------
+
+सुबन्तं नदीभिः सहान्यपदार्थे नाम्नि समस्यते । उन्मत्ता (उत्क्षुमिता) गङ्गास्मिन्नित्युन्मत्तगङ्गं नाम देशः । तूष्णींगङ्गम् । शनैर्गङ्गम् । 'तृतीयासप्तम्यो- र्बहुलम्' (२-४-८४) इति बहुलोक्तेः समृद्धिसंख्यानद्युक्ताव्ययीभावानां सप्तम्या नित्यमम्भावः । भृत्यसमृद्धावित्यर्थं सुभृत्यम् । एवं द्विशाब्दिकम् । उन्मत्तगङ्गम् । इति ॥
+

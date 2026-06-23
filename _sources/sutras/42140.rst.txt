@@ -1,0 +1,47 @@
+42140: राज्ञः क च
+=================
+
+**Padacheda:** राज्ञः | S | 6 | 1 | 
+
+क | S |  |  | 1
+
+च | S | 0 | 0 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+The letter क is the substitute of the final of the word राजन् , when छ is added.
+
+Vasu English Translation
+------------------------
+
+The letter क is the substitute of the final of the word राजन् , when छ is added.
+This *sutra* only teaches substitution: for राजन् would have taken छ by (4.2.114). Thus राजकीयम् ॥ The word देशे does not govern this *sutra*, not being appropriate.
+
+Kashika
+-------
+
+असंभवाद् देशाधिकारो न विशेषणम्। राज्ञःककारश्चान्तादेशो भवति छश्च प्रत्ययः। राजकीयम्। आदेशमात्रमिह विधेयम्, प्रत्ययस्तु **वृद्धाच्छः**(४.२.११४) इत्येव सिद्धः॥
+
+Siddhanta Kaumudi
+-----------------
+
+वृद्धत्वाच्छे सिद्धे तत्सन्नियोगेन कादेशमात्रं विधीयते । राजकीयम् ॥
+
+Balamanorama
+------------
+
+**राज्ञः क च** - राज्ञः क च । राजन्शब्दाच्छः स्यात्, ककारश्चान्तादेशः ।
+
+Prakriyasarvasvam
+-----------------
+
+राज्ञश्छो नस्य कत्वं च । राजकीयम् ॥
+

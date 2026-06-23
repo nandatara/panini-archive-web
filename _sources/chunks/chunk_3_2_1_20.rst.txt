@@ -1,0 +1,26 @@
+Sutras 1 - 20
+=============
+
+.. toctree::
+   :maxdepth: 1
+
+   ../sutras/32001
+   ../sutras/32002
+   ../sutras/32003
+   ../sutras/32004
+   ../sutras/32005
+   ../sutras/32006
+   ../sutras/32007
+   ../sutras/32008
+   ../sutras/32009
+   ../sutras/32010
+   ../sutras/32011
+   ../sutras/32012
+   ../sutras/32013
+   ../sutras/32014
+   ../sutras/32015
+   ../sutras/32016
+   ../sutras/32017
+   ../sutras/32018
+   ../sutras/32019
+   ../sutras/32020

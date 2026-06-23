@@ -1,0 +1,25 @@
+Welcome to the Ashtadhyayi Commentaries
+=======================================
+
+This repository houses the comprehensive commentaries on Pāṇini's *Aṣṭādhyāyī*, including the *Mahābhāṣya*, *Kāśikā*, and Vasu's English translations.
+
+Explore the Adhyayas below:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   adhyayas/adhyaya_1
+   adhyayas/adhyaya_2
+   adhyayas/adhyaya_3
+   adhyayas/adhyaya_4
+   adhyayas/adhyaya_5
+   adhyayas/adhyaya_6
+   adhyayas/adhyaya_7
+   adhyayas/adhyaya_8
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`search`

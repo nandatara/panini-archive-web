@@ -1,0 +1,53 @@
+24041: वेञो वयिः
+================
+
+**Padacheda:** वेञः | S | 6 | 1 | 
+
+वयिः | S | 1 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+When लिट् (Perfect Tense) follows, वयि is optionally the substitute follows of वेञ् 'to weave'.
+
+Vasu English Translation
+------------------------
+
+When लिट् (Perfect Tense) follows, वयि is optionally the substitute follows of वेञ् 'to weave'.
+In the Perfect tense thus we have two roots: Let us first take वेञ्. Then we have regulary वे + लिट् = वे + णल् = ववौ. The roots in ए, ऐ and ओ are treated like roots ending in आ thus :-
+
+- 3rd person - ववौ, ववतुः, ववुः
+- 2nd person - वविथ or ववाथ, ववथुः, वव
+- 1st person - ववौ, वविव, वविम  
+
+In this case *samprasarana* ordained by (6.1.17) does not take place by (6.1.40)
+
+When however we take the base वय्, th इ being for the sake of articulation only, we have the following forms:- वय् + णल् = वय् + वय् + अ (6.1.8) = उय् + वय् + अ (6.1.17) = उवाय; the य is not changed into इ by (6.1.38). In this dual we have वय् + अतुस् = उय् + अतुः (6.1.15) = उ + उय् + अतुः (7.4.60) = ऊयतुः The affix अतुस् being कित् affix by rule (1.2.5) there is *samprasarana* before reduplication. Thus we have उयाय, ऊयतुः, ऊयुः. Further by rule (6.1.39) before कित् affixes व may be optionally substituted for य, i. e., ऊयतुः or ऊवतुः and ऊयुः or ऊवुः
+
+Kashika
+-------
+
+**लिट्यन्यतरस्याम्** (२.४.४०) इति वर्तते। वेञो वयिरादेशो भवत्यन्यतरस्यां लिटि परतः। इकार उच्चारणार्थः। उवाय, ऊयतुः, ऊयुः। पक्षे — ऊवतुः, ऊवुः। **लिटि वयो यः** (६.१.३८) इति यकारस्य संप्रसारणं प्रतिषिध्यते। **वश्चास्यान्यतरस्यां किति** (६.१.३९) इति वकारो विधीयते। ववौ, ववतुः, ववुः। **वेञः** (६.१.४०) इति संप्रसारणं न भवति॥
+
+Siddhanta Kaumudi
+-----------------
+
+वा स्याल्लिटि । इकार उच्चारणार्थः । उवाय ॥
+
+Nyaas
+-----
+
+`इकार उच्चारणार्थः` इति। नानुबन्धः। तेन नुम् न भवतीति भावः। `उवाय` इति। `लिटभ्यासस्योभयेषाम्`  (6.1.17)  इति सम्प्रसारणम्। `ऊयतुः, ऊयुःक` इत्यत्रापि ग्रह्रादिसूत्रेण  (6.1.16)  सम्प्रसारणम्। अथ यकारस्य सम्प्रसारणं कस्मान्न भवतीत्याह -  `लिटि वयो यः` इत्यादि। `वेञ इति सम्प्रसारणं न भवति` इति। वच्यादिसूत्रेण प्राप्तम् `वेञः`  (6.1.39)  इति प्रतिषेधान्न भवति। तत्र हि **न सम्प्रसारणे सम्प्रसारणम्** (6.1.37)  इत्यतो नेति वर्तते। उवाय इत्यादि रूपं वयेरात्मनेपदित्वान्न सिद्ध्यतीति सूत्रारम्भः॥
+
+Prakriyasarvasvam
+-----------------
+
+वेञो लिटि वा वयिः स्यात् । इदुक्त्यर्थः । ग्रहादित्वादभ्यासस्य उत्वम् उवाय । किति यकारस्यापि प्रसारणे प्राप्ते ।
+

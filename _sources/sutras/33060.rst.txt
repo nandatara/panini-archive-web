@@ -1,0 +1,42 @@
+33060: नौ ण च
+=============
+
+**Padacheda:** नौ | S | 7 | 1 | 
+
+ण | S |  |  | 1
+
+च | S | 0 | 0 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+And The affix ण as well as अप् come after the verb अद् 'to eat' when the उपसर्ग नि is in composition.
+
+Vasu English Translation
+------------------------
+
+And The affix ण as well as अप् come after the verb अद् 'to eat' when the उपसर्ग नि is in composition.
+As नि + अद् + ण = नि + आद् + अ = न्यादः  (7.2.116) 'feeding'; नि + अद् + अप् =  नि + घस् + अ (2.4.38) = निघसः 'eating, food'.
+
+Kashika
+-------
+
+निशब्द उपपदेऽदेर्धातोर्णः प्रत्ययो भवति, चकारादप् च। न्यादः। निघसः॥
+
+Siddhanta Kaumudi
+-----------------
+
+नौ उपपदे अदेर्णः स्यादप् च । न्यादः । निघसः ॥
+
+Sutra Prayogas
+--------------
+
+* **न्यादान्** (भट्टिकाव्यम्): `नौ ण च` इति निपूर्वाददोऽण् प्रत्ययः।
+

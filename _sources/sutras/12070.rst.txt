@@ -1,0 +1,73 @@
+12070: पिता मात्रा
+==================
+
+**Padacheda:** पिता | S | 1 | 1 | 
+
+मात्रा | S | 3 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+The word पितृ 'father' is optionally only retained when spoken of along with मातृ 'mother'.
+
+Vasu English Translation
+------------------------
+
+The word पितृ 'father' is optionally only retained when spoken of along with मातृ 'mother'.
+Thus पिता + माता = पितरौ 'father and mother, or parents' or मातापितरौ. The verse quoted under *sutra* (1.2.68) illustrates this *sutra* also. There the word *pitarau*' has been explained by all commentators as "father and mother." The word "*ekavad*" of the last *sutra* does not govern this *sutra*; though the *anuvritti* of 'optionally' is to be read into this.
+
+Bhashya
+-------
+
+पिता मात्रा
+
+Kashika
+-------
+
+अन्यतरस्यामिति वर्तते नैकवदिति। मात्रा सहवचने पितृशब्दः शिष्यतेऽन्यतरस्याम्। माता च पिता च पितरौ, मातापितराविति वा॥
+
+Siddhanta Kaumudi
+-----------------
+
+मात्रा सहोक्तौ पिता वा शिष्यते । माता च पिता च पितरौ । मातापितरौ ॥
+
+Laghu Siddhanta Kaumudi
+-----------------------
+
+मात्रा सहोक्तौ पिता वा शिष्यते। माता च पिता च पितरौ, मातापितरौ वा॥
+
+Tattvabodhini
+-------------
+
+**पिता मात्रा** - पितामात्रा ।
+
+Padamanjari
+-----------
+
+अभ्यर्हितत्वान्मातुः पूर्वनिपातः, ऽपितुर्दशगुणं माता गौरवेणातिरिच्यतेऽ । पितरावित्यभिधानं जनयितृत्वमात्रविवक्षायां लिङ्गाविवक्षायां समर्थनीयम् । एकशेषारम्भेऽपि द्वन्द्वस्त्विष्यत एवेति नार्थ एतेन ॥
+
+Nyaas
+-----
+
+`पितरौ` इति। `ऋतो ङि`  (7.3.110)  इति गुणः। `मातापितरौ` इति। `आनङृतो द्वन्द्वे`  (6.3.24)  इत्यानङ, अभ्यर्हितत्वन्मातुः पूर्वनिपातः॥
+
+Prakriyasarvasvam
+-----------------
+
+मात्रा सहोक्तौ पिता वा शिष्यते । पितरौ । मातापितरौ । आनङत्र वक्ष्यते ॥
+
+Sutra Prayogas
+--------------
+
+* **पितरौ** (रघुवंशम्): `पिता मात्रा` इति द्वन्द्वैकशेषः।
+* **पित्रोः** (रघुवंशम्): `पिता मात्रा` इत्येकशेषः।
+* **पितरौ** (कुमारसम्भवम्): `पिता मात्रा` इत्येकशेषः।
+* **पित्रोः** (कुमारसम्भवम्): `पिता मात्रा` इत्यैकशेषः।
+

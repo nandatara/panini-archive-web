@@ -1,0 +1,59 @@
+12038: देवब्रह्मणोरनुदात्तः
+===========================
+
+**Padacheda:** देव-ब्रह्मणोः | S | 7 | 2 | 
+
+अनुदात्तः | S | 1 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+The words देवा and ब्राह्मण in those hymns have अनुदात्त accent.
+
+Vasu English Translation
+------------------------
+
+The words देवा and ब्राह्मण in those hymns have अनुदात्त accent.
+By *sutra* (1.2.37), it was declared, that in *subrahmanya* hymns, *svarita* accent is replaced by *udatta* accent. This *sutra* makes an exception in favour of the words देव and ब्राह्मण occurring in those hymns. These words have *anudatta* accent. As देवा॒ ब्रह्मा॒ण आग॒च्छत 'come ye *Devas* and *Brahmanas*.' Here the word देवा gets *udatta* accent on the first syllable by rule (6.1.198) \[1\]. (in the vocative the accent is on the beginning): at वा *va* has originally an *anudatta* accent which by rule (8.4.66) \[2\] (an *anudatta* following an *udatta* is changed into *svarita*) would have been changed into *svarita*. This *svarita*, by the previous *sutra* required to be changed into *udatta*; but by this rule, it is replaced by *anudatta*. In other words, the original *anudatta* remains unchanged.
+
+## Footnotes
+- [1] - आमन्त्रितस्य च ॥
+- [2] - उदात्तादनुदात्तस्य स्वरितः ॥
+
+Bhashya
+-------
+
+देवब्रह्मणोरनुदात्तः - देवब्रह्मणोरनुदात्तत्वमेके - देवब्रह्मणोरनुदात्तत्वमेक इच्छन्ति। देवा ब्रह्माणः, देवा ब्रह्माणः ॥ देवब्रह्मणोरनुदात्तः ॥ 38 ॥
+
+Kashika
+-------
+
+सुब्रह्मण्यायामेव देवा ब्रह्माण इति पठ्यते, तत्र पूर्वेण स्वरितस्योदात्ते प्राप्तेऽनेनानुदात्तो विधीयते। देवब्रह्मणोः स्वरितस्यानुदात्त आदेशो भवति। दे॒वा ब्र॒ह्माण आ॒गच्छत (श०ब्रा० ३.३.४.२०)। द्वयोरपि पदयोरामन्त्रिताद्युदात्तत्वे शेषनिघाते चोदात्तादनुदात्तस्य स्वरितः कृतस्तस्यानुदात्तो भवति॥
+
+Siddhanta Kaumudi
+-----------------
+
+अनयोः स्वरितस्यानुदात्तः स्यात्सुब्रह्मण्यायाम् । देवाब्रह्माण आगच्छत ॥
+
+Padamanjari
+-----------
+
+स्वरितस्योदाते प्राप्ते इति । कथं प्राप्तः, यावताऽसिद्धः स्वरितः ? एवं तर्ह्येतज्ज्ञापयत्याचार्यः-ऽतस्यादितःऽ इत्यारभ्य नबसूत्री ऽउदातादनुदातस्य स्वरितःऽ त्यिस्मात्परा द्रष्टव्येति । उक्तानि प्रयोजनानि, उतरत्र च वक्ष्यामः । सामान्यापेक्षत्वाज्ज्ञापकस्य नवसूत्र्यप्युत्कृष्यते, न सुब्रह्मण्यास्वर एव । द्वयोरपि पदयोरिति । द्वितीयस्य पदत्परस्यापि निघातो न भवति; ऽ आमन्त्रितं पूर्वमविद्यमानवद्ऽ इति पूर्वस्याविद्यमान्त्वात् । प्रथमस्यापि न भवति; भिन्नवाक्यत्वात् ॥
+
+Nyaas
+-----
+
+`द्वयोरपि पदयोरामन्त्रिताद्युदात्तत्वे कृते` इति। `विभाषितं विशेषितं विशेषवचने बहुवचनम्`  (8.1.74)  इति पूर्वस्याविद्यामानत्वात् **आमन्त्रितस्य च** (8.1.19)  इति पदात् परस्यापि निघातो न भवति। तेन द्वयोरपि पृथगेव षाष्ठिकमाद्युदात्तत्वं भवति। `शेषनिघातः` इति। **अनुदात्तं पदमेकवर्जम्** (6.1.158)  इत्यनेन।
+
+Prakriyasarvasvam
+-----------------
+
+मन्त्रे देवब्रह्मणोः स्वरस्यानुच्चः स्यात् । देवा ब्रह्माणः । द्वयोरामन्त्रिय- योराद्यु*
+

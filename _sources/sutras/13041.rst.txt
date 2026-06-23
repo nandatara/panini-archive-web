@@ -1,0 +1,75 @@
+13041: वेः पादविहरणे
+====================
+
+**Padacheda:** वेः | S | 5 | 1 | 
+
+पादविहरणे | S | 7 | 1 | 
+
+Sutrartha
+---------
+
+**'वि' उपसर्गात्  'क्रम्' धातोः 'पादैः विहरणम्' अस्मिन् अर्थे आत्मनेपदस्य प्रत्ययाः भवन्ति ।**
+
+
+
+Sutrartha (English)
+-------------------
+
+When the उपसर्ग 'वि' is attached to the verb 'क्रम्', it gets the प्रत्ययाः of आत्मनेपद, provided the meaning is 'to roam around with feet'.
+
+Vasu English Summary
+--------------------
+
+After the verb क्रम् preceded by वि , the आत्मनेपद is used, when in the sense of 'placing of foot-steps'.
+
+Vasu English Translation
+------------------------
+
+After the verb क्रम् preceded by वि , the आत्मनेपद is used, when in the sense of 'placing of foot-steps'.
+As वाजी विक्रमते 'the horse is pacing.' The term *vikramana* is applied to the special movements of horse &c.
+
+Though in the *Dhatupatha* (catalogue of verbal roots), the verb क्रमि and क्रमु have the meanings of *pada*-*viharana* and *pada*-*vikshepa*, that is "throwing or placing of foot," and so it might be objected that the present *sutra* is a useless repetition, yet as verbs have various other meanings than what is assigned to them in the *dhatupatha*, the present *sutra* is not unnecessary.
+
+Why do we say "in the sense of throwing of foot"? In any other sense, the terminations will be those of the *parasmaipada*. As विक्रामति अजिनसन्धिः 'the fold of the antilope skin is ruptured.'
+
+Kashika
+-------
+
+विपूर्वात् क्रमतेः पादविहरणेऽर्थे वर्तमानादात्मनेपदं भवति। विहरणं विक्षेपः सुष्ठु विक्रमते। साधु विक्रमते। अश्वादीनां गतिविशेषो विक्रमणमुच्यते। यद्यपि क्रमिः पादविहरण एव पठ्यते **क्रमु पादविक्षेपे** इति, तथाप्यनेकार्थत्वाद् धातूनामेवमुक्तम्। पादविहरण इति किम्? विक्रामत्यजिनसन्धिः॥
+
+Siddhanta Kaumudi
+-----------------
+
+साधु विक्रमते वाजी । पादविहरणे किम् । विक्रामति सन्धिः । द्विधा भवति । स्फुटतीत्यर्थः ॥
+
+Balamanorama
+------------
+
+**वेः पादविहरणे** - पादविहरणं = पादविक्षेपः । तद्वृतेर्विपूर्वात् क्रमेरात्मनेपदमित्यर्थः । साधु विक्रमते वाजीति । सम्यक्पदानि विक्षिपतीत्यर्थः ।
+
+Tattvabodhini
+-------------
+
+**वेः पादविहरणे** - वेः पाद । यद्यपि क्रमेः पादविक्षेप एवार्थस्तथापि धातूनामनेकार्थत्वादेवमुक्तम् ।
+
+Padamanjari
+-----------
+
+विक्रामत्यजिनसन्धिरिति। द्विधा भवति, स्फुटतीत्यर्थः॥
+
+Nyaas
+-----
+
+`विक्रामत्यजिनसन्धिः` इति। द्विधा भवति। स्फुटतीत्यर्थः॥
+
+Prakriyasarvasvam
+-----------------
+
+अश्वादेर्गतिविशेषेऽर्थे विक्रमेस्तङ् । विक्रमस्व कपिश्रेष्ठ । शोभनं वल्गत्यथः । पादसञ्चारैर्विहरणमेवार्थ इति शङ्करः ।
+
+Sutra Prayogas
+--------------
+
+* **व्चक्रमिरे** (शिशुपालवधम्): `वेः पादविहरणे` इत्यात्मनेपदम् ।
+* **विक्रममाणाया** (भट्टिकाव्यम्): `वेः पादवि- हरणे` इति तङ्।
+

@@ -1,0 +1,51 @@
+81053: विभाषितं सोपसर्गमनुत्तमम्
+================================
+
+**Padacheda:** विभाषितम् | S | 1 | 1 | 
+
+सोपसर्गम् | S | 1 | 1 | 
+
+अनुत्तमम् | S | 1 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+An Imperative preceded by a preposition and not in the 1st person, following an Imperative of verbs of 'motion', may optionally retain its accent when the कारक is not wholly different.
+
+Vasu English Translation
+------------------------
+
+An Imperative preceded by a preposition and not in the 1st person, following an Imperative of verbs of 'motion', may optionally retain its accent when the कारक is not wholly different.
+The whole of the preceding *sutra* is understood here. This is a *Prapta*-*vibhasha*. Thus आगच्छ देवदत्त ग्रामं प्रविश꣡ or प्र꣡वि॒श॒ ॥ आगच्छ देवदत्त ग्रामं प्रशाधि꣡ or प्र꣡शा॒धि॒ ॥ When the verb is accented, the *upasarga* loses its accent by (8.1.71).
+
+Why do we say सोपसर्गं 'joined with a Preposition'? When there is no Preposition, there is no option allowed, and the last rule will apply. As आगच्छ देवदत्त ग्रामं पश्य ॥
+
+Why do we say अन्-उत्तमं 'not a First Person'? Observe आ गच्छानि देवदत्त, ग्रामं प्रवि॒शा꣡नि॒ ॥
+
+Kashika
+-------
+
+पूर्वं सर्वमनुवर्तते। प्राप्तविभाषेयम्। लोडन्तं सोपसर्गमुत्तमवर्जितं गत्यर्थलोटा युक्तं तिङन्तं विभाषितं नानुदात्तं भवति, न चेत् कारकं सर्वान्यद् भवति। आगच्छ देवदत्त ग्रामं प्र॒वि॒श, प्रवि॑श। आगच्छ देवदत्त ग्रामं प्र॒शा॒धि,प्रशा॑धि। सोपसर्गमिति किम्? आगच्छ देवदत्त ग्रामं पश्य॑। अनुत्तममिति किम्? अगच्छानि देवदत्त ग्रामं प्रवि॒शानि॑॥
+
+Siddhanta Kaumudi
+-----------------
+
+लोडन्तं गत्यर्थलोटा युक्तं तिङन्तं वानुदात्तम् । आगच्छ देव ग्रामं प्रविश । सोपसर्गं किम् । आगच्छ देव ग्रामं पश्य । अनुत्तमं किम् । आगच्छानि देव ग्रामं प्रविशानि ॥
+
+Nyaas
+-----
+
+पूर्वेण नित्ये प्रतिषेधे प्राप्ते विकल्पार्थं वचनम्? विभाषितशब्दश्चायं विभावाशब्देन समानार्थः। **नपुंसके भावे क्तः** (3.3.114) । `प्रविशानि` इति। मिपः `मेनिः`  (3.4.89) , **आडुत्तमस्य पिच्च** (3.4.92)  इत्याद्॥
+
+Prakriyasarvasvam
+-----------------
+
+उक्तलोडन्तं सोपसर्ग तूत्तमवर्जितं वा न निहन्यते । आगच्छ हरे व्रजं प्रविश । उत्तमे तु—आगच्छानि हरे व्रजं प्रविशानि ।
+

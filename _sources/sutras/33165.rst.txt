@@ -1,0 +1,65 @@
+33165: स्मे लोट्
+================
+
+**Padacheda:** स्मे | S | 7 | 1 | 
+
+लोट् | S | 1 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+The affix लोट् (Imperative) comes after a verb when the word स्म is in composition (when the sense is that of 'direction', permission etc.) and referring to time by a मुहूर्त (48 minutes or an Indian hour).
+
+Vasu English Translation
+------------------------
+
+The affix लोट् (Imperative) comes after a verb when the word स्म is in composition (when the sense is that of 'direction', permission etc.) and referring to time by a मुहूर्त (48 minutes or an Indian hour).
+This supersedes the Potential (लिङ्) and Potential Passive Participles (कृत्या). Thus ऊर्ध्वम् मुहूर्ताद् भवान् कटं करोतु स्म, ग्रामं गच्छतु स्म, माणवकमध्यापयतु स्म 'you (may, must, or it is proper time to) make the mat, or go to the village, or teach *Manavaka* just now'.
+
+Kashika
+-------
+
+प्रैषादिषूर्ध्वमौहूर्तिक इति वर्तते। स्मशब्द उपपदे प्रैषादिषु गम्यमानेषूर्ध्वमौहूर्तिकेऽर्थे वर्तमानाद् धातोर्लोट् प्रत्ययो भवति। लिङ्कृत्यानामपवादः। ऊर्ध्वं मुहूर्ताद् भवान् कटं करोतु स्म, ग्रामं गच्छतु स्म, माणवकमध्यापयतु स्म॥
+
+Siddhanta Kaumudi
+-----------------
+
+पूर्वसूत्रस्य विषये । लिङः कृत्यानां चापवादः । ऊर्ध्वं मुहूर्ताद् यजतां स्म ॥
+
+Balamanorama
+------------
+
+**स्मे लोट्** - स्मे लोट् । पूर्वसूत्रेति । तथा च मुहूर्तादुपरितनकाले प्रैषातिसर्गप्राप्तकालेषु लोडेव स्यान्नतु लिह् कृत्याश्चेत्यर्थः । तदाह —  लिङः कृत्यानां चापवाद इति ।
+
+Tattvabodhini
+-------------
+
+**स्मे लोट्** - पूर्वसूत्रस्यविषय इति । प्रैषादयः, ऊध्र्वमौहूर्तिके इति चानुवर्तत इति भावः ।
+
+Padamanjari
+-----------
+
+लिङ्कृत्यानामपवाद इति । अनन्तरसूत्रेण प्राप्तानाम् । करोतुस्मेति । स्मशब्दोऽधिकारं सूचयति - भवानत्राधिकृत इत्यर्थः ॥
+
+Nyaas
+-----
+
+`लिङकृत्यानामपवादः`इति। अनन्तर सूत्र विहितानाम्॥
+
+Prakriyasarvasvam
+-----------------
+
+स्मयोग ऊर्ध्वमौहूर्तिकेऽर्थे प्रैषादौ लोडेव । ऊर्ध्वं मुहूर्तात् करोतु स्म भवान् ।
+
+Sutra Prayogas
+--------------
+
+* **स्म भव** (भट्टिकाव्यम्): `स्मे लोट्` इति प्रेपे लोट्।
+

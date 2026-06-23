@@ -1,0 +1,50 @@
+81029: न लुट्
+=============
+
+**Padacheda:** न | S | 0 | 0 | 
+
+लुट् | S | 1 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+By the लुट् (Periphrastic Future) is not unaccented when it is preceded by a word which is not a finite verb.
+
+Vasu English Translation
+------------------------
+
+By the लुट् (Periphrastic Future) is not unaccented when it is preceded by a word which is not a finite verb.
+This restricts the scope of the last *sutra* which was rather too wide. Thus श्वः कर्त्ता꣡, श्वः कर्त्ता꣡रौ, मासेन कर्ता꣡रः ॥ The *Sarvadhatuka* affixes डा, रौ, रस्, are *anudatta* after the affix तासि by (6.1.186), the whole affix तास् becomes *udatta* (3.1.3) and where the टि portion of तास् i. e. the syllable आस्, is elided before the affix डा, there also the आ of डा becomes *udatta*, because the *udatta* has been elided. See (6.1.161).
+
+Kashika
+-------
+
+पूर्वेणातिप्रसक्ते  प्रतिषेध आरभ्यते। लुडन्तं तिङन्तं नानुदात्तं भवति। श्वः क॒र्ता। श्वः क॒र्तारा॑ै। मासेन क॒र्तारः॑। तासेः परस्य लसार्वधातुकस्यानुदात्तत्वे सति सर्वतासिरेवोदात्तः। यत्र तु टिलोपः, तत्रोदात्तनिवृत्तिस्वरो भवति॥
+
+Siddhanta Kaumudi
+-----------------
+
+लुडन्तं न निहन्यते । श्वःकर्ता । श्वःकर्तारौ ॥
+
+Padamanjari
+-----------
+
+श्वः कर्तेत्यादि । अथात्र निघाते प्रतिषिद्धेकः स्वरः श्रूयते ? इत्याह - तासेः परस्येति ॥
+
+Nyaas
+-----
+
+`आः कर्ता` इति। करोतेर्लुट्, तासिः, **लुटः प्रथमस्य डारौरसः** (2.4.85)  इत्येकवचनस्य डादेशः, डिति टिलोपः। `तासेः परस्य` इत्यादि। आगमः प्रत्ययस्वरेणाद्युदात्तः। तस्य यत्र टिलोपो नास्ति -इर्तारो, कर्तार इत्यादौ, तत्र `नास्यनुदात्तेन्ङित`  (6.1.180)  इत्यादिना लसार्वधातुकस्यानुदात्तत्वे कृते तासेरेवोदात्तत्वं भवति। यत्र तु टिलोपस्तत्र `अनुदात्तस्य च यत्रोदात्तलोपः  (6.1.155)  इति लसार्वधातुकमेवोदात्तं भवति॥
+
+Prakriyasarvasvam
+-----------------
+
+<karika>अतिङन्ताल्लुडन्तं तु तिङन्तं न निहन्यते । तेन तासेः स्वरे चाहं कर्तास्मि हरिसेवनम् ॥ ८९९ ॥</karika>
+

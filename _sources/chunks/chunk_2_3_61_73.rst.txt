@@ -1,0 +1,19 @@
+Sutras 61 - 73
+==============
+
+.. toctree::
+   :maxdepth: 1
+
+   ../sutras/23061
+   ../sutras/23062
+   ../sutras/23063
+   ../sutras/23064
+   ../sutras/23065
+   ../sutras/23066
+   ../sutras/23067
+   ../sutras/23068
+   ../sutras/23069
+   ../sutras/23070
+   ../sutras/23071
+   ../sutras/23072
+   ../sutras/23073

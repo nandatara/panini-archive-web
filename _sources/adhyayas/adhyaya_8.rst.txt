@@ -1,0 +1,10 @@
+Adhyaya 8
+=========
+
+.. toctree::
+   :maxdepth: 1
+
+   ../padas/pada_8_1
+   ../padas/pada_8_2
+   ../padas/pada_8_3
+   ../padas/pada_8_4

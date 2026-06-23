@@ -1,0 +1,10 @@
+Adhyaya 5
+=========
+
+.. toctree::
+   :maxdepth: 1
+
+   ../padas/pada_5_1
+   ../padas/pada_5_2
+   ../padas/pada_5_3
+   ../padas/pada_5_4

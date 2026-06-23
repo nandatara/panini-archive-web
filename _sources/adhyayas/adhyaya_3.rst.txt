@@ -1,0 +1,10 @@
+Adhyaya 3
+=========
+
+.. toctree::
+   :maxdepth: 1
+
+   ../padas/pada_3_1
+   ../padas/pada_3_2
+   ../padas/pada_3_3
+   ../padas/pada_3_4

@@ -1,0 +1,56 @@
+82005: एकादेश उदात्तेनोदात्तः
+=============================
+
+**Padacheda:** एकादेशः | S | 1 | 1 | 
+
+उदात्तेन | S | 3 | 1 | 
+
+उदात्तः | S | 1 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+The single substitute of an unaccented with an उदात्त (acute accent) vowel is उदात्त।
+
+Vasu English Translation
+------------------------
+
+The single substitute of an unaccented with an उदात्त (acute accent) vowel is उदात्त।
+The word "of an *anudatta*" is understood here. An unaccented vowel, which combined with the preceding *udatta* vowel remains as a single substitute, becomes *udatta*. Thus for the *udatta* इ of अग्नि꣡ and for the case-ending औ which is *anudatta*, there is always substituted long ई single by (6.1.102). This single substitute will be *udatta* according to the present sutra*, as अग्नी꣡ ॥ Similarly वायू꣡, वृक्षैः꣡, प्लक्षैः꣡ ॥
+
+Why do we say "with *udatta* vowel"? Observe पचन्ति, यजन्ति ॥ Here पच् + शप् + अन्ति = प꣡च् + अ + अन्ति । Here शप् is *anudatta* by (3.1.4), so also अन्ति by (6.1.186). The *ekadesa* of these two non-accented अ will be *anudatta*. In forming this *para*-*rupa* *ekadesa* by (6.1.97), the *svarita* of the अ of शप् caused by (8.4.66) is considered as invalid or *asiddha*.
+
+Other examples are क्व वोऽश्वाः (*Rig*. V. 61.2) and क्वावरं मरुतः ॥ The word वः is *anudatta* by (8.1.21). read with (8.1.18). The word अ꣡श्वः is acutely accented on the first, as it is formed by adding क्वन् to अश् (*Unadi* I.151). The स् of वस् is changed to व् (8.2.66), which is again changed to उ (6.1.113). Thus वोऽश्वः ॥ Here अ becomes *purva*-*rupa* by (6.1.109), which is *udatta*. क्व is formed from किम् by अत् affix (5.3.12) and (7.2.105) and is *svarita* (6.1.185). The word अ꣡वर is acutely accented on the first by the *Phit* II.6. The single long substitute is *udatta_.
+
+Kashika
+-------
+
+उदात्तेन सहानुदात्तस्य य एकादेशः स उदात्तो भवति। अनुदात्तस्येति वर्तते। अ॒ग्नी। वा॒यू। वृ॒क्षैः। प्ल॒क्षैः। उदात्तेनेति किम् ? पच॑न्ति। यज॑न्ति। लसार्वधातुकानुदात्तत्वे (६.१.१८६) कृते द्वयोरनुदात्तयोरयमेकादेशः, पररूपे कर्तव्ये स्वरितस्य (८.४.६६) असिद्धत्वात्॥
+
+Siddhanta Kaumudi
+-----------------
+
+उदात्तेन सहैकादेश उदात्तः स्यात् । वोऽश्वाः । क्वावरं भरुतः (क्वाव॑रं भरुतः) ॥
+
+Padamanjari
+-----------
+
+ठनुदातस्यऽ इति वर्तते । अग्न्यादिशब्दाः प्रातिपदिकस्वरेणान्तोदाताः, विभक्तिरनुदाता । पचन्तीति । अत्र शबकारस्य यत्स्वरितत्वम् ठुदातादनुदातस्य स्वरितःऽ इति, तस्यासिद्धत्वाद् द्वयोरनुदातयोरेकादेशः ॥
+
+Nyaas
+-----
+
+`अनुदत्तस्य` इति। उदात्तेन सहानुदात्तस्य यस्मिन्नेकादेशः स उदात्तः स्यात्, न तु स्वरितः। स्वरिते प्राप्त इदमारभ्यते। उदाहरणेष्वग्निप्रभृतयः प्रातिपदिकस्वरेणान्तोदात्ताः (फि।सू।1।1) विभक्तिस्तु `अनुदात्तौ सुप्तितौ`  (3.1.4)  इत्यनुदात्ता। `अग्नी, वायू` इति। **प्रथमयोः पूर्वसवर्णः** (6.1.102)  इति दीर्घः। `वृक्षी, प्लक्षौ इति। **वृद्धिरेचि** (6.1.88)  इति वृद्धिः। `पचन्ति, यजन्ति` इति। **अतो गुणे** (6.1.97)  पररूपत्वम्। `द्वयोरनुदात्तयोरयमेकादेशः` इति। ननु च **उदात्तादनुदात्तस्य स्वरितः** (8.4.66)  इति शबकारस्य स्वरितत्वे कृते स्वरितानुदात्तयोरयमेकादेशः, तत्कथं द्वयोरनुदात्तयोरिति? एवमाह -`पररूपे कर्तव्ये स्वरितस्यासिद्धत्वात्`॥
+
+Prakriyasarvasvam
+-----------------
+
+अनुदात्तस्योदात्तेन सहैकादेश उदात्तः स्यात् । इत्युदात्तेन देवाकारेण सहानुदात्तस्य सुबौकारस्य ‘वृद्धिरेचि’ (६-१-८८) इत्येकादेश उदात्तः देवौ वर्धते । उदात्तेनेत्युक्तेः पच अन्तीत्यत्र शबन्त्यकारयोर्द्वयोरनुदात्तत्वान्न । पचन्ति ते वृषभान् । <karika>परिभाषात्वमप्यस्य व्याजहार हरः क्वचित् । तत्पक्षे स्वयमर्थः स्यादाद्गुणः स्यादितीरिते ।। ८९० ।। उदात्तः स्यादुदात्तानुदात्तयोस्त्वाद्गुणस्ततः । विधीयमाना एव स्युरेकादेशा उदात्तकाः ।। ८९१ ।।</karika> <karika>एवं सति ह्ययाद्यर्थ मेकादेशस्वरस्य यत् । सिद्धत्ववचनं तन्न कर्तव्यं स्यादिति स्थितम् ॥ ८९२ ॥</karika> <karika>ततश्च वृक्षे इदमित्यत्रैकादेशङेपि । सिद्धत्वाद् वृक्ष इदमित्यकारे स्यादुदात्तता ॥ ८९३ ॥</karika> दिवि इव; दिवि ईयते ।
+

@@ -1,0 +1,52 @@
+62083: अन्त्यात् पूर्वं बह्वचः
+==============================
+
+**Padacheda:** अन्त्यात् | S | 5 | 1 | 
+
+पूर्वम् | S | 1 | 1 | 
+
+बह्वचः | S | 6 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+In a word consisting of more than two syllables followed by ज , the acute accent (उदात्त) falls on the syllable before the last.
+
+Vasu English Translation
+------------------------
+
+In a word consisting of more than two syllables followed by ज , the acute accent (उदात्त) falls on the syllable before the last.
+Thus उपस꣡रजः, मन्दु꣡रजः, आमल꣡कीजः, and वड꣡वाजः (though the last two words have *upapadas* ending in long vowel, the accent is governed by this *sutra* and not the last). Why do we say "a Polysyllabic first member"? Observe दग्धजानि तृणानि ॥
+
+Kashika
+-------
+
+ज उत्तरपदे बह्वचः पूर्वपदस्यान्त्यात् पूर्वमुदात्तं भवति। उ॒प॒सर॑जः। म॒न्दुर॑जः। आ॒म॒लकी॑जः। व॒डवा॑जः। बह्वच इति किम्? द॒ग्ध॒जा॑नि तृणानि॥
+
+Siddhanta Kaumudi
+-----------------
+
+बह्वचः पूर्वस्यान्त्यात्पूर्वपदमुदात्तं जे उत्तरपदे । उपसरजः । आमलकीजः । बह्वचः किम् । दग्धजानि तृणानि ॥
+
+Padamanjari
+-----------
+
+आमलकीज इति । दीर्घान्तेऽपि बह्वचि परत्वादयमेव स्वरो भवति ॥
+
+Nyaas
+-----
+
+अयमपि कृत्स्वरपबादो योगः।`दग्धजानि` इति। अत्र कृत्स्वर एव भवति॥
+
+Prakriyasarvasvam
+-----------------
+
+जे परे बह्वचः प्राक् पदस्यान्त्यात् पूर्वमुदात्तं स्यात् । आमलकीजः ।
+

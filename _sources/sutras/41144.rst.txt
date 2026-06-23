@@ -1,0 +1,59 @@
+41144: भ्रातुर्व्यच्च
+=====================
+
+**Padacheda:** भ्रातुः | S | 5 | 1 | 
+
+व्यत् | S | 1 | 1 | 
+
+च | S | 0 | 0 | 
+
+Sutrartha
+---------
+
+**'तस्य अपत्यम्' अस्मिन् अर्थे 'भ्रातृ'शब्दात् 'छ' तथा 'व्यत्' प्रत्ययौ भवतः ।**
+
+
+
+Vasu English Summary
+--------------------
+
+The affix व्यत् also comes in the sense of descendant after the word भ्रातृ।
+
+Vasu English Translation
+------------------------
+
+The affix व्यत् also comes in the sense of descendant after the word भ्रातृ।
+By the force of the word च in the *sutra*, we get the affix छ as well.
+
+This debars अण् ॥ Thus भ्रातृव्यः or भ्रात्रीयः 'the brother's son'. The त् of व्यत् the regulates the accent, making it *svarita*.
+
+Kashika
+-------
+
+भ्रातृशब्दादपत्ये व्यत् प्रत्ययो भवति। चकाराच्छश्च। अणोऽपवादः। भ्रा॒तृ॒व्यः॑। भ्रात्रीयः। तकारः स्वरार्थः॥
+
+Siddhanta Kaumudi
+-----------------
+
+चाच्छः । अणोऽपवादः । भ्रातृव्यः - भ्रात्रीयः ॥
+
+Balamanorama
+------------
+
+**भ्रातुर्व्यच्च** - भ्रातुव्र्यच्च । तकारःतित्स्वरित॑मिति स्वरार्थ इति बोध्यम् ।
+
+Nyaas
+-----
+
+`तकारः स्वरार्थः` इति। **तित्स्वरितम्** (6.1.185)  इति स्वरितत्वं यथा स्यात्।
+
+Prakriyasarvasvam
+-----------------
+
+छञ्च स्यात् । भ्रातुपुत्रो भ्रातृव्यः । भ्रात्रीयः ॥
+
+Sutra Prayogas
+--------------
+
+* **भ्रातृव्यं** (भट्टिकाव्यम्): `भ्रातुर्व्यच्च` इति व्यत्-प्रत्ययः।
+

@@ -1,0 +1,52 @@
+32116: हशश्वतोर्लङ् च
+=====================
+
+**Padacheda:** ह-शश्वतोः | S | 7 | 2 | 
+
+लङ् | S | 1 | 1 | 
+
+च | S | 0 | 0 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+And the affix लङ् (Imperfect Tense) comes after the verb when the particles ह and शश्वत are in connection with it and when the verb denotes past action unperceived by the speaker and before the commencement of the current day.
+
+Vasu English Translation
+------------------------
+
+And the affix लङ् (Imperfect Tense) comes after the verb when the particles ह and शश्वत are in connection with it and when the verb denotes past action unperceived by the speaker and before the commencement of the current day.
+The force of च 'and' is that the affix लिट् (perfect) may also be employed in similar construction. As इति हाकरोत् (imperfect), or इति ह चकार (perfect) 'Alas ! he did it'. शश्वदकरोत् or शश्वच्चकार 'again and again he did it'.
+
+Kashika
+-------
+
+भूतानद्यतनपरोक्षेऽर्थे लिटि प्राप्ते, हशश्वतोरुपपदयोर्लङ् प्रत्ययो भवति, चकाराल् लिट् च। इति ह अकरोत्। इति ह चकार। शश्वदकरोत्। शश्वच् चकार॥
+
+Siddhanta Kaumudi
+-----------------
+
+अनयोरुपपदयोर्लिङ्विषये लङ् स्यात् । इतिहाकरोच्चकार वा । शश्वदकरोच्चकार वा ॥
+
+Balamanorama
+------------
+
+**हशश्वतोर्लङ् च** - हशआतोर्लङ् च । स्पष्टम् ।
+
+Prakriyasarvasvam
+-----------------
+
+आभ्यां योगे लिड्विषये लङ् लिट् च स्यात् । इति हाकरोच्चकार वा । शश्वदकरोत्, शश्वच्चकार ।
+
+Sutra Prayogas
+--------------
+
+* **हाऽकरोत्** (भट्टिकाव्यम्): `हशश्वतोर्लङ् च` इति भूतानद्यतनपरोक्षलिटि प्राप्ते लङ्।
+

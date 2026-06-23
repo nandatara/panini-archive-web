@@ -1,0 +1,79 @@
+13038: वृत्तिसर्गतायनेषु क्रमः
+==============================
+
+**Padacheda:** वृत्ति-सर्ग-तायनेषु | S | 7 | 3 | 
+
+क्रमः | S | 5 | 1 | 
+
+Sutrartha
+---------
+
+**(1) वृत्तिः (निरन्तरता)  , (2) सर्गः ( उत्साहः), (3) तायनः (विस्तारः) - एतेषु अर्थेषु 'क्रम्' धातोः आत्मनेपदस्य प्रत्ययाः भवन्ति ।**
+
+
+
+Sutrartha (English)
+-------------------
+
+The verb 'क्रम्' gets the प्रत्ययाः of आत्मनेपद, when it is used in the meaning of - (1) वृत्तिः , To progress without getting stuck  , (2) सर्गः, enthusiasm, (3) तायनः, expansion, elaboration.
+
+Vasu English Summary
+--------------------
+
+After the verb क्रम् 'to move', when used in the senses of 'continuity', 'energy' and 'development', the आत्मनेपद is used.
+
+Vasu English Translation
+------------------------
+
+After the verb क्रम् 'to move', when used in the senses of 'continuity', 'energy' and 'development', the आत्मनेपद is used.
+The word '*kram*' governs the succeeding *sutras* up to (1.3.43) and is understood in them all.
+
+The verb *kram* by *sutra* (1.3.78) (after the rest, let the *parasmaipada* affixes be employed in marking the agent), would have taken the affixes of the *parasmaipada*; the present aphorism enjoins *Atmanepada* affixes in certain cases when the verb means to have a taste for &c.
+
+*Vritti* 'continuity' means unobstructed, or want of interruption (i. e., a taste for, or facility in, anything), *sarga* 'energy' means application, resolution and determination. *Tayana* 'development' means increase and growth.
+
+As (1) ऋक्ष्वस्य क्रमते बुद्धिः - 'his reason proceeds unobstructed through the *Rig*. scriptures i. e., he can easily comprehend the *Rig*.' (2). व्याकरणाध्ययनाय क्रमते 'the pupil shows energy or exerts to study the grammar.' (3). अस्मिनशास्त्राणि क्रमन्ते 'the *shastras* are developed in him.'
+
+Why in these senses only? Witness अपक्रामति 'he runs away.'
+
+Kashika
+-------
+
+शेषात् कर्तरि परस्मैपदे प्राप्ते वृत्त्यादिष्वर्थेषु क्रमेर्धातोरात्मनेपदं भवति। वृत्तिरप्रतिबन्धः। सर्ग उत्साहः। तायनं स्फीतता। वृत्तौ तावत् — ऋक्ष्वस्य क्रमते बुद्धिः। न प्रतिहन्यत इत्यर्थः। यजुःष्वस्य क्रमते बुद्धिः। सर्गे — व्याकरणाध्ययनाय क्रमते। उत्सहत इत्यर्थः। तायने — अस्मिन् शास्त्राणि क्रमन्ते। स्फीतीभवन्तीत्यर्थः॥
+
+Siddhanta Kaumudi
+-----------------
+
+वृत्तिरप्रतिबन्धः । ऋचि क्रमते बुद्धिः । न प्रतिहन्यत इत्यर्थः । सर्ग उत्साहः । अध्ययनाय क्रमते । उत्सहते इत्यर्थः । क्रमन्तेऽस्मिन् शास्त्राणि । स्फीतानि भवन्तीत्यर्थः ॥
+
+Balamanorama
+------------
+
+**वृत्तिसर्गतायनेषु क्रमः** - वृत्तिसर्ग ।आत्मनेपद॑मिति शेषः । तायने उदाहरति —  क्रमन्तेऽस्मिन्निति । तायनं = वृद्धिः । तदाह —  स्फीतानीति ।
+
+Tattvabodhini
+-------------
+
+**वृत्तिसर्गतायनेषु क्रमः** - वृत्तिसर्ग । तायृ सन्तानपालनयोः । तायनं स्फीतता.तदाह —  स्फीतानीति । प्रवृद्धानीत्यर्थः ।
+
+Padamanjari
+-----------
+
+सर्ग उत्साह इति ।'सृष्टश्चेद्ब्राह्मणवधे' ,'येनेन्द्रलोकापजयाय सृष्टः' इत्यादौ दर्शनात्सृजिरुत्सहार्थः। वृत्यादिष्विति किम्? अपक्रामति॥
+
+Nyaas
+-----
+
+शेषलक्षणेन क्रमेः परस्मेपदे प्राप्त आत्मेपदं विधीयते। वृत्त्यादयोऽर्था अप्रतिबन्धोत्साहस्फीततासु प्रसिद्धाः॥
+
+Prakriyasarvasvam
+-----------------
+
+अप्रतिबन्धोत्साहस्फीतत्वेषु क्रमेस्तङानाः स्युः । <karika>कृष्णे क्रमतां बुद्धिस्तदर्चने कर्म तत्सुतौ कुतुकम् ॥ ६४९ ॥</karika>
+
+Sutra Prayogas
+--------------
+
+* **क्रममाणो** (भट्टिकाव्यम्): `वृत्ति- सर्ग` इत्यादिना वृत्तौ तङ्।
+* **क्रंस्था** (भट्टिकाव्यम्): `वृत्तिसर्गतायनेषु क्रमः` इत्यादिना क्रमेः सर्गे उत्साहे तङ् ।
+

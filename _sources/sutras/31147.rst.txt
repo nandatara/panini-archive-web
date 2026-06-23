@@ -1,0 +1,62 @@
+31147: ण्युट् च
+===============
+
+**Padacheda:** ण्युट् | S | 1 | 1 | 
+
+च | S | 0 | 0 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+The affix ण्युट् is also used after the verb गै 'to sing' when the agent so expressed denotes an artist.
+
+Vasu English Translation
+------------------------
+
+The affix ण्युट् is also used after the verb गै 'to sing' when the agent so expressed denotes an artist.
+By the word च 'also', the word गा of the last *sutra* is drawn into this. Thus गै + ण्युट् = गा + अन (VII.I.I) = गायनः fem. गायनी; the य is added by (7.3.33).
+
+The separation of these rules (*yoga*-*vibhaga* ) relating to गै is for the purpose of the *sutras* that follow. Had गस्थकन् and ण्युट् च been made one aphorism, the *anuvritti* of both these affixes would have run into the subsequent *sutras*. But it is intended that the *anuvritti* of ण्युट् should only run, and hence this *yoga*-*vibhaga* or division of one *sutra* into two.
+
+Kashika
+-------
+
+चकारेण ग इत्यनुकृष्यते। गायतेर्ण्युट् प्रत्ययो भवति शिल्पिनि कर्तरि। गायनः। गायनी। योगविभाग उत्तरार्थः॥
+
+Siddhanta Kaumudi
+-----------------
+
+गायनः । टित्त्वाद्गायनी ॥
+
+Balamanorama
+------------
+
+**ण्युट् च** - ण्युट् च । चकार उक्तसमुच्चये । गायतेर्ण्युट्, थकन् च शिल्पिनि कर्तरि । गायन इति । आत्वे युक् । 'आदेचः' इत्यात्वस्य अनैमित्तिकत्वेन वृद्ध्यपेक्षया अन्तरङ्गत्वात् । यद्यपिगस्थकन्- ण्युट् चे॑त्येकमेव सूत्रमुचितम्, तथापि ण्युट एवोत्तरसूत्रे अनुवृत्त्यर्थो योगविभागः ।
+
+Tattvabodhini
+-------------
+
+**ण्युट् च** - ण्युट् च । योगविभाग उत्तरत्र अस्यैवाऽनुवृत्त्यर्थः । गायन इति ।आतो युक् ।
+
+Padamanjari
+-----------
+
+ण्युट् च॥ णकारो युगर्थः, टकारो ङीबर्थः। योगविभाग उतरार्थ इति। उतरत्र ण्युट एवानुवृत्तिर्यथा स्यात्, थकनो मा भूदिति॥
+
+Nyaas
+-----
+
+`गायनः` इति। **आतो युक् चिण्कृतोः** (7.3.33)  इति युक्। `गायनी`। टित्त्वान्ङीप्। `योगविभाग उत्तरार्थः` इति। उत्तरत्र चकारेण ण्युट एवानुवृत्तिर्यथा स्यात्, थकनो मा भूदिति। `गो ण्युट्थकनौ` इत्येकयोगे थकन्नप्यनुकृष्येत॥
+
+Prakriyasarvasvam
+-----------------
+
+गाधातोः शिल्पिनि ण्युट् च स्यात् । टो ङीबर्थः । गायनः । गायनी ।
+

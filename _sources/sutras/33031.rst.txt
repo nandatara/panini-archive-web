@@ -1,0 +1,64 @@
+33031: यज्ञे समि स्तुवः
+=======================
+
+**Padacheda:** यज्ञे | S | 7 | 1 | 
+
+समि | S | 7 | 1 | 
+
+स्तुवः | S | 5 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+The affix घञ् comes after the verb स्तु 'to praise' when it is preceded by the उपसर्ग सम् and the word refers to sacrificial subjects.
+
+Vasu English Translation
+------------------------
+
+The affix घञ् comes after the verb स्तु 'to praise' when it is preceded by the उपसर्ग सम् and the word refers to sacrificial subjects.
+As संस्तावश्छन्दोगानाम् 'the *Sanstava* of the *Chhandogas*'; संस्ताव (= समेत्य स्तुवन्ति यस्मिन् देशे छन्दोगाः स देशः) means 'the place which the *Brahmanas* repeating hymns and prayers, occupy at a sacrifice'.
+
+But when not referring to sacrifice we have संस्तवश्छात्रयोः 'the praising together of the two pupils'.
+
+Kashika
+-------
+
+यज्ञविषये प्रयोगे संपूर्वात् स्तौतेर्घञ् प्रत्ययो भवति। संस्तावश्छन्दोगानाम्। समेत्य स्तुवन्ति यस्मिन् देशे छन्दोगाः, स देशः संस्ताव इत्युच्यते। यज्ञ इति किम्?  संस्तवश्छात्रयोः॥
+
+Siddhanta Kaumudi
+-----------------
+
+समेत्य स्तुवन्ति यस्मिन् देशे छन्दोगाः स देशः संस्तावः । यज्ञे किम् । संस्तवः परिचयः ॥
+
+Tattvabodhini
+-------------
+
+**यज्ञे समि स्तुवः** - यज्ञे समि । अधिकरणे ल्युटोऽपवादोऽयं घञ् ।
+
+Padamanjari
+-----------
+
+समेत्य स्तुवन्ति यस्मिन्देश इति । अधिकरणे ल्युटोऽपवादो घञिति दर्शयति । संस्तवःउपरिचयः ॥
+
+Nyaas
+-----
+
+`समेत्य स्तुवन्ति यस्मिन् देशे` इत्यादिना संस्तावशब्दस्याधिकरणसाधनत्वं दर्शयति॥
+
+Prakriyasarvasvam
+-----------------
+
+सम्पूर्वस्य स्तोर्यज्ञविषये घञ् । संस्तावो यज्ञे स्तुतिस्तत्स्थानं वा ॥
+
+Sutra Prayogas
+--------------
+
+* **संस्तावम्** (भट्टिकाव्यम्): `यज्ञे समि स्तुवः` इति घञ् ।
+

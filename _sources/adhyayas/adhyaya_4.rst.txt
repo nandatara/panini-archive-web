@@ -1,0 +1,10 @@
+Adhyaya 4
+=========
+
+.. toctree::
+   :maxdepth: 1
+
+   ../padas/pada_4_1
+   ../padas/pada_4_2
+   ../padas/pada_4_3
+   ../padas/pada_4_4

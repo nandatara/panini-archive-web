@@ -1,0 +1,55 @@
+33084: परौ घः
+=============
+
+**Padacheda:** परौ | S | 7 | 1 | 
+
+घः | S | 1 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+The affix क also comes after a root हन् 'to kill' when the उपसर्ग परि is in composition and the relation between the word so formed and the verb is that of an instrument and घ replaces हन् ।
+
+Vasu English Translation
+------------------------
+
+The affix क also comes after a root हन् 'to kill' when the उपसर्ग परि is in composition and the relation between the word so formed and the verb is that of an instrument and घ replaces हन् ।
+Thus परिघः or पलिघः (8.2.22) 'an iron beam used for locking or shutting the gate, an iron club'.
+
+Kashika
+-------
+
+करणे हन इत्येव। परिशब्द उपपदे हन्तेर्धातोरप् प्रत्ययो भवति करणे कारके, घशब्दश्चादेशः। परिहन्यतेऽनेनेति परिघः। पलिघः॥
+
+Siddhanta Kaumudi
+-----------------
+
+परौ हन्तेरप् स्यात्करणे घशब्दश्चादेशः । परिहन्यतेऽनेनेति परिघः ॥
+
+Padamanjari
+-----------
+
+पलिघ इति ।'परेश्च घाङ्कयोः'  इति विभाषा लत्वम् ॥
+
+Nyaas
+-----
+
+`वलिघः` इति। **परेश्च घाङ्कयोः** (8.2.22)  इति विभाषा लत्वम्॥
+
+Prakriyasarvasvam
+-----------------
+
+परिहनेः करणे अप् धातोर्घशब्दादेशश्च । अतो लोपः 'परेर्घ घाङ्कयोः' (८-२-२२) इति वा लत्वम् । पलिघः परिघः । बाहुलकात् प्रतिघः कोपः ॥
+
+Sutra Prayogas
+--------------
+
+* **परिघोरु-भुजानाह** (भट्टिकाव्यम्): `परौ घः` इत्यप् घादेशश्च।
+

@@ -1,0 +1,47 @@
+74039: कव्यध्वरपृतनस्यर्चि लोपः
+===============================
+
+**Padacheda:** कव्यध्वरपृतनस्य | S | 6 | 1 | 
+
+ऋचि | S | 7 | 1 | 
+
+लोपः | S | 1 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+In the ऋग् वेद the final of 1. कवि 2. अध्वर and 3. पृतना is dropped before the Denominative affix क्यच् ।
+
+Vasu English Translation
+------------------------
+
+In the ऋग् वेद the final of 1. कवि 2. अध्वर and 3. पृतना is dropped before the Denominative affix क्यच् ।
+As कव्यन्तः सुमनसः (not in the *Rig* *Veda*), अध्वर्यन्तः (not in this case in the *Rig* *Veda*), पृतन्यन्तस्तिष्ठन्ति (not in this connection in the *Rig*. *Veda*). The examples given above are of *Kasika* : according to Pro. Bohtlingk none of them are from the *Rig* *Veda*. The following are given by *Bhattoji* *Dikshita* in his *Siddhanta **Kaumudi*: स पूर्वया निविदा कव्यतायोः (*Rig* I.96.2). अध्वर्युं वा मधुपाणिम् (*Rig* X. 41.3), दमयन्तं पृतन्युम् ॥
+
+Kashika
+-------
+
+कवि अध्वर पृतना इत्येतेषामङ्गानां क्यचि परतो लोपो भवति ऋचि विषये। कव्यन्तः सुमनसः। अध्वर अध्वर्यन्तः। पृतना पृतन्यन्तः तिष्ठन्ति।
+
+Siddhanta Kaumudi
+-----------------
+
+एषामन्त्यस्य लोपः स्यात् क्यचि ऋग्विषये । सपूर्वया निविदा कव्यतायोः (सपूर्व॑या नि॒विदा॑ क॒व्यता॒योः) । अध्वर्युं वा मधुपाणिम् । दमयन्तं पृतन्युम् (द॒मय॑न्तं पृत॒न्युम्) । दधातेर्हि (SK3076) । जहातेश्च क्त्वि (SK3331) ॥
+
+Nyaas
+-----
+
+`काव्यन्तः` इति। **अलोऽन्त्यस्य** (1.1.52)  लोपः। क्यजन्ताच्छतृप्रत्ययः, तदन्ताज्जस॥
+
+Prakriyasarvasvam
+-----------------
+
+एषामृचि क्यच्यन्तलोपः स्यात् । कव्यतायोः । अध्वर्यन्तः पृतन्यति ।
+

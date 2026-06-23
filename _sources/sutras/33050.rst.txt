@@ -1,0 +1,47 @@
+33050: विभाषाऽऽङि रुप्लुवोः
+===========================
+
+**Padacheda:** विभाषा | S | 1 | 1 | 
+
+आङि | S | 7 | 1 | 
+
+रु-प्लुवोः | S | 6 | 2 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+The affix घञ् is optionally used after the verbs 1. रू 'to roar' 2. प्लु 'to float' when the preposition अङ् is in composition.
+
+Vasu English Translation
+------------------------
+
+The affix घञ् is optionally used after the verbs 1. रू 'to roar' 2. प्लु 'to float' when the preposition अङ् is in composition.
+As आरावः or आरवः 'noise'; आप्लावः or आप्लवः 'bathing'.
+
+Kashika
+-------
+
+आङ्युपपदे रौतेः प्लवतेश्च विभाषा घञ् प्रत्ययो भवति। आरावः, आरवः। आप्लावः, आप्लवः॥
+
+Siddhanta Kaumudi
+-----------------
+
+आरावः । आरवः । आप्लावः । आप्लवः ॥
+
+Nyaas
+-----
+
+रौतेः **उपसर्गे रुवः** (3.3.22)  इति नित्यं घञि प्राप्ते प्लवतेरप्युवर्णान्तत्वादपि सूत्रारम्भः॥
+
+Sutra Prayogas
+--------------
+
+* **घनाऽऽरावो** (भट्टिकाव्यम्): `विभाषा sऽङि रुप्लुवोः` इति भावे घञ्।
+

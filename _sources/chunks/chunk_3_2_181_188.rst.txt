@@ -1,0 +1,14 @@
+Sutras 181 - 188
+================
+
+.. toctree::
+   :maxdepth: 1
+
+   ../sutras/32181
+   ../sutras/32182
+   ../sutras/32183
+   ../sutras/32184
+   ../sutras/32185
+   ../sutras/32186
+   ../sutras/32187
+   ../sutras/32188

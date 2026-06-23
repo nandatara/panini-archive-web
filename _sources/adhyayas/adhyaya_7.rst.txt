@@ -1,0 +1,10 @@
+Adhyaya 7
+=========
+
+.. toctree::
+   :maxdepth: 1
+
+   ../padas/pada_7_1
+   ../padas/pada_7_2
+   ../padas/pada_7_3
+   ../padas/pada_7_4

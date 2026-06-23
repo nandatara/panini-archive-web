@@ -1,0 +1,26 @@
+Sutras 61 - 80
+==============
+
+.. toctree::
+   :maxdepth: 1
+
+   ../sutras/44061
+   ../sutras/44062
+   ../sutras/44063
+   ../sutras/44064
+   ../sutras/44065
+   ../sutras/44066
+   ../sutras/44067
+   ../sutras/44068
+   ../sutras/44069
+   ../sutras/44070
+   ../sutras/44071
+   ../sutras/44072
+   ../sutras/44073
+   ../sutras/44074
+   ../sutras/44075
+   ../sutras/44076
+   ../sutras/44077
+   ../sutras/44078
+   ../sutras/44079
+   ../sutras/44080

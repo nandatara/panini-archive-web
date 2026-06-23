@@ -1,0 +1,26 @@
+Sutras 1 - 20
+=============
+
+.. toctree::
+   :maxdepth: 1
+
+   ../sutras/53001
+   ../sutras/53002
+   ../sutras/53003
+   ../sutras/53004
+   ../sutras/53005
+   ../sutras/53006
+   ../sutras/53007
+   ../sutras/53008
+   ../sutras/53009
+   ../sutras/53010
+   ../sutras/53011
+   ../sutras/53012
+   ../sutras/53013
+   ../sutras/53014
+   ../sutras/53015
+   ../sutras/53016
+   ../sutras/53017
+   ../sutras/53018
+   ../sutras/53019
+   ../sutras/53020

@@ -1,0 +1,52 @@
+33073: आङि युद्धे
+=================
+
+**Padacheda:** आङि | S | 7 | 1 | 
+
+युद्धे | S | 7 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+The affix अप् comes after the verb ह्वे 'to call' when the word in composition is the उपसर्ग आण् and the semi-vowel of the root is changed into its corresponding vowel, when the word so formed means 'battle'.
+
+Vasu English Translation
+------------------------
+
+The affix अप् comes after the verb ह्वे 'to call' when the word in composition is the उपसर्ग आण् and the semi-vowel of the root is changed into its corresponding vowel, when the word so formed means 'battle'.
+As आहवः 'battle' (where they challenge each other). But otherwise आह्वायः 'calling'.
+
+Kashika
+-------
+
+आङ्युपपदे ह्वयतेर्धातोः संप्रासरणमप् प्रत्ययश्च भवति युद्धेऽभिधेये। आहूयन्तेऽस्मिन्नित्याहवः। युद्ध इति किम्? आह्वायः॥
+
+Siddhanta Kaumudi
+-----------------
+
+आहूयन्तेऽस्मिन्नित्याहवः । युद्धे किम् । आह्वायः ॥
+
+Nyaas
+-----
+
+`आह्वायः`इति। **आतो युक् चिण्कृतोः** (7.3.33)  इति युक्॥
+
+Prakriyasarvasvam
+-----------------
+
+आङि ह्वो युद्धे वाच्ये प्राग्वत् । आह्वयन्तेऽत्रेत्याहवः ॥
+
+Sutra Prayogas
+--------------
+
+* **महाहवे** (शिशुपालवधम्): `आङि युद्धे` इति ह्वयतेराङ्पूर्वादप्प्रत्ययः संप्रसारणम् ।
+* **आहवाय** (भट्टिकाव्यम्): `आङि युद्धे` इति सम्प्रसारणम्।
+* **आहव-प्रज्ञा** (भट्टिकाव्यम्): `आङि युद्धे` इत्यप् संप्रसारणं च।
+

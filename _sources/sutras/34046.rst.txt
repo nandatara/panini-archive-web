@@ -1,0 +1,57 @@
+34046: कषादिषु यथाविध्यनुप्रयोगः
+================================
+
+**Padacheda:** कषादिषु | S | 7 | 3 | 
+
+यथाविधि | S | 0 | 0 | 
+
+अनुप्रयोगः | S | 1 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+The same verb should be used after the gerunds formed from the verbs कष् 'to rub' etc. as the verb from which the gerund is derived.
+
+Vasu English Translation
+------------------------
+
+The same verb should be used after the gerunds formed from the verbs कष् 'to rub' etc. as the verb from which the gerund is derived.
+From *sutra* (3.4.34) up to *sutra* (3.4.45), a verb from the same root must be employed in the subsequent part, as *anuprayoga*, from which the gerund in *namul* was formed. This rule has been illustrated in the examples under the previous aphorisms.
+
+The present is a restrictive or *niyama* rule. This chapter deals with affixes employed in denoting syntactical relation between two verbs (धातुसम्बन्धे प्रत्ययाः)। See (3.4.1) : so a gerund in *namul*, would, of course, be followed by some verb as *anuprayoga*; the present *sutra* declares that the other verb must be from the same root as the gerund.
+
+Kashika
+-------
+
+**निमूलसमूलयोः०**(३.४.३४) इत्येतदारभ्य कषादयः। एतेषु यथाविध्यनुप्रयोगो भवति। यस्माद् धातोर्णमुल् प्रत्ययो भवति, स एवानुप्रयोक्तव्यः। ननु धातुसंबन्धे प्रत्ययविधानादनुप्रयोगः सिद्ध एव? यथाविधीति नियमार्थं वचनम्? तथात चैवोदाहृतम्॥
+
+Siddhanta Kaumudi
+-----------------
+
+यस्माण्णमुलुक्तः स एवानुप्रयोक्तव्य इत्यर्थः । तथैवोदाहृतम् ॥
+
+Tattvabodhini
+-------------
+
+**कषादिषु यथाविध्यनुप्रयोगः** - तथैवेति ।निमूलकाषं कषती॑त्याद्युदाहृतमित्यर्थः ।
+
+Prakriyasarvasvam
+-----------------
+
+एतदादिषु 'उपमाने कर्मणि च' (३-४-४५) इत्यन्तेषु विधिमत एव धातोरनुप्रयोगः कार्यः । निगतमूलं प्राप्तमूलं कषति निमूलकाषं कषति, समूलकाषं कषति । अनुप्रयुक्तस्य क्रियासामान्यपरत्वात् समूलं कषतीत्येवार्थः ॥
+
+Sutra Prayogas
+--------------
+
+* **विलीये** (किरातार्जुनीयम्): `कषादिषु यथाविध्यनुप्रयोगः` इति यथाविध्यनुप्रयोगः।
+* **न्यवधीदरींश्च** (भट्टिकाव्यम्): `कषादिषु यथा` इत्यादिना यथाविध्यनुप्रयोगः ।
+* **तुण्ड-घातमयुध्यत** (भट्टिकाव्यम्): `कपादिपु यथाविध्यनुप्रयोगः` इति वचनात् अहिंसार्थत्वाच्च तदारम्भस्य यथा पादघातं भूमिं हन्तीति।
+* **अवीवृतत्** (भट्टिकाव्यम्): `कषादिषु यथाविध्यनुप्रयोगः` इति अनुप्रयोगः।
+

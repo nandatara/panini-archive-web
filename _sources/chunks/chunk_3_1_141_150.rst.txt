@@ -1,0 +1,16 @@
+Sutras 141 - 150
+================
+
+.. toctree::
+   :maxdepth: 1
+
+   ../sutras/31141
+   ../sutras/31142
+   ../sutras/31143
+   ../sutras/31144
+   ../sutras/31145
+   ../sutras/31146
+   ../sutras/31147
+   ../sutras/31148
+   ../sutras/31149
+   ../sutras/31150

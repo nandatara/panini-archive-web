@@ -1,0 +1,65 @@
+41131: क्षुद्राभ्यो वा
+======================
+
+**Padacheda:** क्षुद्राभ्यः | S | 5 | 3 | 
+
+वा | S | 0 | 0 | 
+
+Sutrartha
+---------
+
+**'तस्य अपत्यम्' अस्मिन् अर्थे क्षुद्रावाचिभ्यः शब्देभ्यः विकल्पेन ढ्रक् प्रत्ययः भवति ।**
+
+
+
+Vasu English Summary
+--------------------
+
+The affix ढ्रक् comes optionally in the sense of descendant after the feminine words denoting mean objects.
+
+Vasu English Translation
+------------------------
+
+The affix ढ्रक् comes optionally in the sense of descendant after the feminine words denoting mean objects.
+The *anuvritti* of ढ्रक् is to be read in this *sutra*, and not of आरक्, though the latter immediately precedes it. The word क्षुद्रा means those who are defective or wanting in any bodily limb or organ, or who are low in social status and religious principles. This *sutra* debars ढक् which would come in the other alternative. Thus काणेरः 'the son of an one eyed woman', or काणेयः, दासेरः or दासेयः 'son of a female-slave'.
+
+Bhashya
+-------
+
+क्षुद्राभ्यो वा (1377) (क्षुद्राशब्दार्थबोधकभाष्यम्) क्षुद्राभ्य इत्युच्यते, का क्षुद्रा नाम्? अनियतपुंस्का, अङ्गहीना वा॥
+
+Kashika
+-------
+
+ढ्रगनुवर्तते, न आरक्। क्षुद्रा अङ्गहीनाः शीलहीनाश्च। अर्थधर्मेण तदभिधायिन्यः स्त्रीलिङ्गाः प्रकृतयो निर्दिश्यन्ते। क्षुद्राभ्यो वापत्ये ढ्रक् प्रत्ययो भवति। ढकोऽपवादः। काणेरः, काणेयः। दासेरः, दासेयः॥
+
+Siddhanta Kaumudi
+-----------------
+
+अङ्गहीनाः शीलहीनाश्च क्षुद्रास्ताभ्यो वा ढ्रक् । पक्षे ढक् । काणेरः - काणेयः । दासेरः - दासेयः ॥
+
+Balamanorama
+------------
+
+**क्षुद्राभ्यो वा** - श्रुद्राभ्यो वा । अङ्गहीना इति । चक्षुरादिकतिपयावयवविकला इत्यर्थः । शीलहीना इति । सद्वृत्तहीना इत्यर्थः । यथेष्टपुरुषसंचारिण्य इति यावत् ।अनियतपुंस्का अङ्गहीना वा क्षुद्राः॑ इति भाष्यम् ।
+
+Tattvabodhini
+-------------
+
+**क्षुद्राभ्यो वा** - क्षुद्राभ्यः । अर्थगतं स्त्रीत्वं शब्दे आरोप्यं स्त्रीलिङ्गनिर्देशः ।
+
+Padamanjari
+-----------
+
+अङ्गहीना इति । काणादयः । शीलहीना इति । अनियतपुंस्कादासीप्रभृतयः ॥
+
+Nyaas
+-----
+
+`अर्थधर्मेण` इति। अर्थस्य क्षुद्रत्वात्तदभिधायिन्योऽपि प्रकृतय उपचारेण क्षुद्रा इति निर्दिश्यन्ते॥
+
+Prakriyasarvasvam
+-----------------
+
+अङ्गहीना व्यभिचारिण्यश्च स्त्रियः क्षुद्राः । तद्वाचिभ्योऽपत्ये वा ढक् । काणेरः । काणेयः । दासेरः । दासेयः । नटचाः नाटेरः । नाटेयः । आरगन्येभ्योऽपीति नाटारश्च ॥
+

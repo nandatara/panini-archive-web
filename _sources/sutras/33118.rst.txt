@@ -1,0 +1,69 @@
+33118: पुंसि संज्ञायां घः प्रायेण
+=================================
+
+**Padacheda:** पुंसि | S | 7 | 1 | 
+
+संज्ञायाम् | S | 7 | 1 | 
+
+घः | S | 1 | 1 | 
+
+प्रायेण | S | 3 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+The affix घ generally comes in the sense of an instrument or location after a root, when the word to be formed is a name and is in the masculine gender.
+
+Vasu English Translation
+------------------------
+
+The affix घ generally comes in the sense of an instrument or location after a root, when the word to be formed is a name and is in the masculine gender.
+The force of the word प्रायेण 'generally' is to show that this rule is not a universal rule. Thus दन्तच्छदः 'the lip'. छादि 'to cover' + घ (6.4.96) = छद lit. 'that by which the teeth are covered'; so also उरच्छद 'a breast plate'; घटः । These denote instruments.
+
+So also in denoting 'location'. Thus आ + कृ + घ = आकरः 'a mine', so named because men work (*akurvanti*) in it, आलयः 'a house' that in which men settle down.
+
+Why do we say 'in the masculine gender'? Observe प्रसाधनम् 'a comb'; (lit. that by which men decorate). Here the affix is *lyut*.
+
+Why do we say 'when the complete word so formed is merely an appellative'? Observe प्रहरणो दण्डः 'the beating stick'.
+
+The indicatory घ् is merely qualifying; for the application of *sutra* (6.4.96) by which after the causative छादि, when घ is added, the long आ is shortened.
+
+Kashika
+-------
+
+करणाधिकरणयोरित्येव। पुँल्लिङ्गयोः करणाधिकरणयोरभिधेययोर्धातोर्घः प्रत्ययो भवति, समुदायेन चेत् संज्ञा गम्यते। प्रायग्रहणमकार्त्स्न्यार्थम्। दन्तच्छदः। उरश्छदः पटः। अधिकरणे खल्वपि — एत्य तस्मिन् कुर्वन्ति इत्याकरः। आलयः। पुंसीति किम्? प्रसाधनम्। संज्ञायामिति किम्? प्रहरणो दण्डः। घकारः **छादेर्घे०** (६.४.९६) इति विशेषणार्थः॥
+
+Padamanjari
+-----------
+
+दन्तच्छद इति ।'च्छद आवरणे'  चुरादिः'छादेर्घे' द्व्युपसर्गस्यऽ इति ह्रस्वः । एत्यास्मिन्कुर्वन्ति व्यवहारमित्याकरःउ उत्पत्तिस्थानम् ॥
+
+Nyaas
+-----
+
+`समुदायेण चेत्` इत्यादि। प्रकृतिप्रत्ययसमुदायेन यदि संज्ञा गम्यत एवं प्रत्ययो भवति, नान्यथा। `अकार्त्स्न्यार्थम्` इति। अकार्त्स्न्यम् = असाकल्यम्, प्रयोजनमर्थो यस्य तत् तथोक्तम्। एतेनाकृत्स्नविषयतां प्रत्ययस्य दर्शयति। `दन्तच्छदः` इति। `छद अपवारणे` (धातुपाठः-1935), चुरादिणिच्। `छादेर्घेऽद्वयुपसर्गस्य`  (6.4.96)  इति ह्रस्वः, पूर्ववत् समासः। `प्रसाधनम्िति। `राध साध संसिद्धौ` (धातुपाठः-1262), 1263), अस्माद्धेतुमण्ण्यन्तात् पूर्वसूत्रेण करणे ल्युट्, `कुगतिप्रादयः  (2.2.18)  इति समासः॥
+
+Prakriyasarvasvam
+-----------------
+
+केषाञ्चिद् धातूनां पुंसि नाम्नि करणाधिकरणयोरर्थयोर्घः स्यात् । स्मरत्यनेनेति स्मरः । क्रियते रत्नादिकमत्रेत्याकरः । आलयः । छादेर्ण्यन्तात् करणे घः । णिलोपः । छाद् अ ॥
+
+Sutra Prayogas
+--------------
+
+* **परिच्छदः** (रघुवंशम्): `पुंसि संज्ञायां घः प्रायेण` इति घप्रत्ययः।
+* **तनुच्छदम्** (रघुवंशम्): `पुंसि संज्ञायां घः प्रायेण` इति घः।
+* **दशनच्छदं** (कुमारसम्भवम्): `पुंसि संज्ञायां घः प्रायेण` इति घप्रत्ययः।
+* **परिच्छदानाम** (किरातार्जुनीयम्): `पुंसि संज्ञायां घः प्रायेण` इति घप्रत्ययः।
+* **भरस्य** (शिशुपालवधम्): `पुंसि संज्ञायां घः प्रायेण` इति घप्रत्ययः।
+* **मुखच्छदपटसादृशीं** (शिशुपालवधम्): `पुंसि संज्ञायां घः प्रायेण` इति घप्रत्ययः।
+* **घनेन** (भट्टिकाव्यम्): `पुंसि संज्ञायां घः` इति करणे घः।
+* **अशुभाऽऽकरम्** (भट्टिकाव्यम्): `पुंसि संज्ञायां घः` इति तंत्र हि करणाधिकरणयोरिति वर्तते।
+

@@ -1,0 +1,10 @@
+Adhyaya 6
+=========
+
+.. toctree::
+   :maxdepth: 1
+
+   ../padas/pada_6_1
+   ../padas/pada_6_2
+   ../padas/pada_6_3
+   ../padas/pada_6_4

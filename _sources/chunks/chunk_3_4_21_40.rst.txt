@@ -1,0 +1,26 @@
+Sutras 21 - 40
+==============
+
+.. toctree::
+   :maxdepth: 1
+
+   ../sutras/34021
+   ../sutras/34022
+   ../sutras/34023
+   ../sutras/34024
+   ../sutras/34025
+   ../sutras/34026
+   ../sutras/34027
+   ../sutras/34028
+   ../sutras/34029
+   ../sutras/34030
+   ../sutras/34031
+   ../sutras/34032
+   ../sutras/34033
+   ../sutras/34034
+   ../sutras/34035
+   ../sutras/34036
+   ../sutras/34037
+   ../sutras/34038
+   ../sutras/34039
+   ../sutras/34040

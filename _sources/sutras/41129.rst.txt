@@ -1,0 +1,57 @@
+41129: गोधाया ढ्रक्
+===================
+
+**Padacheda:** गोधायाः | S | 5 | 1 | 
+
+ढ्रक् | S | 1 | 1 | 
+
+Sutrartha
+---------
+
+**'तस्य अपत्यम्' अस्मिन् अर्थे 'गोधा'शब्दात् ढ्रक्-प्रत्ययः भवति ।**
+
+
+
+Vasu English Summary
+--------------------
+
+The affix ढ्रक् comes in the sense of a descendant after the word गोधा।
+
+Vasu English Translation
+------------------------
+
+The affix ढ्रक् comes in the sense of a descendant after the word गोधा।
+Thus गोधा + ढ्रक् = गौधेरः ॥ Of the affix '*dhrak*', the letter ढ् is replaced by एय् (7.1.2), क् causes *Vriddhi* (7.2.118) and makes the *udatta* accent fall on the final (4.1.165). Thus the real affix is एय्र, but the य् is elided by (6.1.66) and so the affix that is actually added is एर ॥
+
+This word गोधा occurs in the *Subhradi* class (4.1.123), also, thus it takes the affix '*dhak*' as well. Thus गौधेयः ॥
+
+Kashika
+-------
+
+गोधाया अपत्ये ढ्रक् प्रत्ययो भवति। गौधेरः। शुभ्रादिष्वयं पठ्यते। तेन गौधेयोऽपि भवति॥
+
+Siddhanta Kaumudi
+-----------------
+
+गौधेरः । शुभ्रादित्वात्पक्षे ढक् । गौधेयः ॥
+
+Balamanorama
+------------
+
+**गोधाया ढ्रक्** - गोधाया ढ्रक् । गौधेर इति । गोधाया अपत्यमिति विग्रहः । ढ्रकि ढकारस्य एयादेशेलोपोव्यो॑रिति यलोपः । कित्त्वादादिवृद्धिरिति भावः ।
+
+Tattvabodhini
+-------------
+
+**गोधाया ढ्रक्** - गौधेर इति । ढस्य एयादेशे कृतेलोपो व्यो॑रिति यलोपः ।
+
+Nyaas
+-----
+
+`गोधेरः` इति। पूर्ववद्यलोपः॥
+
+Prakriyasarvasvam
+-----------------
+
+ढमात्रस्य एय् । गोधा एय् र 'लोपो व्यो—' (६-१-६६) इति यलोपः । गोधा पर, वृद्धिः । यस्येति च । गौधेरः । शुभ्रादित्वाढ्ढकि गौधेयोऽपि ॥
+

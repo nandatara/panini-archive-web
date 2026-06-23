@@ -1,0 +1,81 @@
+42008: कलेर्ढक्
+===============
+
+**Padacheda:** कलेः | S | 5 | 1 | 
+
+ढक् | S | 1 | 1 | 
+
+Sutrartha
+---------
+
+**'दृष्टं साम' अस्मिन् अर्थे तृतीयासमर्थात् कलि-शब्दात् ढक्-प्रत्ययः भवति ।**
+
+कलिना दृष्टं साम
+= कलि + ढक्
+→ कालि + ढक् [**तद्धितेष्वचामादेः** (7.2.117) इति आदिवृद्धिः]
+→ कालि + एय [**आयनेयीनीयियः फढखच्छघां प्रत्ययादीनाम्** (7.1.2) इति ढकारस्य एय-आदेशः]
+→ काल् + एय [**यस्येति च** (6.4.148) इति इकारलोपः]
+→ कालेय
+अयं प्रत्ययः अण्-प्रत्ययस्य अपवादरूपेण आगच्छति ।
+
+Sutrartha (English)
+-------------------
+
+The word कलि gets the तद्धितप्रत्यय 'ढक्' in the meaning of 'दृष्टं साम'.
+
+Vasu English Summary
+--------------------
+
+The affix ढक् comes in the sense of साम वेद seen after the word कलि being in the Instrumental -3rd case.
+
+Vasu English Translation
+------------------------
+
+The affix ढक् comes in the sense of साम वेद seen after the word कलि being in the Instrumental -3rd case.
+*Karika*
+दृष्टे सामनि जाते च द्विरण्डिद्वा विधीयते ।
+तीयादीकक् न विद्याया गोत्रादङ्कवदिष्यते ॥
+
+This debars अण् ॥ Thus कलिना दृष्टं साम = कालेयं ॥ "The *Sama* *Veda* revealed to *Kali*". This *sutra* is really a *Vartika* and not a *sutra* of *Panini*.
+
+Vart:- The affix 'dhak' comes always after अग्नि and कलि; not merely in the sense of *Sama*-*Veda* seen. Thus अग्निना दृष्टं साम = आग्नेयम् 'the *Sama*-*Veda* revealed to *Agni*'. अग्नौ भवं = आग्नेयम् 'who stays in *Agni*' (4.3.53) अग्नेरागतं "what has come from *Agni*" = आग्नेयम् (4.3.74) &c. Similarly कालेयम् means 'the *Sama*-*Veda* seen by *Kali*, he who stays in *Kali*, what has come from *Kali* &c.
+
+Vart:- The affix अण् is optionally treated as if it had an indicatory ड् when the sense is that of *Sama*-*Veda* seen. Thus उशनसा दृष्टं साम = औशनसम् or औशनम् (the force of डित् being to elide the टि portion; (6.4.143)).
+
+Vart:- The affix अण् in the sense of 'born', is optionally treated as डित्, provided that it be that अण् which being debarred by (4.3.11), is re-ordained by (4.3.16). The affix अण् governs all *sutras* up to (4.4.2) by force of (4.1.83).; but it is debarred by ठञ् of (4.3.11), and is re-ordained in (4.3.16). Thus शतभिषजि जातः = शतभिषः or शतभिषजः ॥
+
+Vart:- The affix ईकक् comes, optionally, without changing the sense after words ending in तीय ॥ Thus द्वैतीयीकम् or द्वितीयकम्, तर्तीयीकम् or तृतीयकम् ॥
+
+Vart:- Not so when it qualifies विद्या, as द्वितीया or तृतीया विद्या ॥  
+
+Vart:- The affix वुञ् (4.3.126) has the force of "*Sama*-*Veda* seen" when it comes after a *Gotra*-word. This औपगवकम् or कापटवकम् 'the *Sama*-*Veda* seen by *Aupagava*, or *Kapatava*'. The affix वुञ् comes after a word denoting a *Gotra* or *Charana*.
+
+Kashika
+-------
+
+कलिशब्दात् तृतीयासमर्थाद् दृष्टं सामेत्येतस्मिन्नर्थे ढक्  प्रत्ययो भवति। अणोऽपवादः। कलिना दृष्टं साम कालेयम्॥ सर्वत्राग्निकलिभ्यां ढग् वक्तव्यः॥ अग्निना दृष्टमाग्नेयम्। एवमग्नौ भवमग्नेरागतमग्नेः स्वमिति सर्वत्र ढगेव भवति। आग्नेयम्। तथा कालेयमपि प्रतिपत्तव्यम्॥ दृष्टे सामनि अण् वा डिद् भवतीति वक्तव्यम्॥ उशनसा दृष्टं साम औशनसम्, औशनम्॥ जाते चार्थे योऽन्येन बाधितः पुनरण् विधीयते स वा डिद् भवतीति वक्तव्यम्॥**प्राग् दीव्यतोऽण्** (४.१.८३) प्राप्तः कालठञा (४.३.११) बाधितः **सन्धिवेलाद्यृतुनक्षत्रेभ्यः०** (४.३.१६) इति पुनर्विधीयते, स वा डिद् भवतीति वक्तव्यम्॥ शतभिषजि जातः शातभिषः, शातभिषजः॥ तीयादीकक् स्वार्थ वा वक्तव्यः॥ द्वैतीयीकम्। तार्तीयीकम्। द्वितीयकम्। तृतीयकम्॥ न विद्यायाः॥ द्वितीया, तृतीया विद्या॥ गोत्रादङ्कवदिष्यते॥ दृष्टं सामेत्यस्मिन्नर्थे। औपगवेन दृष्टं साम औपगवकम्। कापटवकम्।  **गोत्रचरणाद् वुञ्** (४.३.१२६) भवति।
+
+दृष्टे सामनि जाते च द्विरण् डिद् वा विधीयते।
+
+तीयादीकक् न विद्याया   गोत्रादङ्कवदिष्यते ॥
+
+Siddhanta Kaumudi
+-----------------
+
+कलिना दृष्टं कालेयं साम ॥
+
+Padamanjari
+-----------
+
+सर्वत्रेति । न केवलमग्नेः'सास्य देवता'  इत्यस्मिन्नेवार्थे ढक्, नापि केवलं दृष्ट्ंअ सामेत्यत्रैवार्थे कलेर्ढग्; अपि तु सर्वेष्वे व प्राग्दीव्यतीयेष्वित्यर्थः । संग्रहश्लोके जति च द्विरण् डिद्वा विधीयते इति पाठः । जातेऽर्थे योऽण् विधीयते स वा डिद्भवतीत्यर्थः । न विद्याया इति । विद्यावाचिन ईकग् न भवतीत्यर्थः । गोत्रादङ्कवदिति । अङ्के यो दृष्टः प्रत्ययः स सर्वोऽतिदिश्यते, न त्वङ्क एवाहत्य विहितः, तेन'सङ्घाङ्कलक्षणेषु'  इत्यस्याणः'गोत्रचरणाद् वुञ्'  इत्यस्य च वुञोऽतिदेशः ॥
+
+Prakriyasarvasvam
+-----------------
+
+कलिना दृष्टं साम कालेयम् । 'दृष्टे सामन्यण् वा डिद् वाच्यः' । डित्त्वे टिलोपः । उशनसा दृष्टमौशनं साम । औशनसम् । <karika>गोत्रात् तस्येदमर्थे यो वुञादिः स इहेष्यते । दृष्टमौपगवेनेति सामौपगवकं भवेत् ॥ २२९ ॥</karika>
+
+Vartika
+-------
+
+सर्वत्राग्निकलिभ्यां ढग्वक्तव्यः ।
+

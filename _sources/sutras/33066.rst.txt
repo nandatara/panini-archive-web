@@ -1,0 +1,60 @@
+33066: नित्यं पणः परिमाणे
+=========================
+
+**Padacheda:** नित्यम् | S | 1 | 1 | 
+
+पणः | S | 5 | 1 | 
+
+परिमाणे | S | 7 | 1 | 
+
+Sutrartha
+---------
+
+****
+
+
+
+Vasu English Summary
+--------------------
+
+The affix अप् comes Invariably after the verb पण् 'to barter' when the sense is that of 'measure'.
+
+Vasu English Translation
+------------------------
+
+The affix अप् comes Invariably after the verb पण् 'to barter' when the sense is that of 'measure'.
+The word नित्यं 'invariably' is used in the aphorism in order to stop the *anuvritti* of the word optionally. Thus मूलकपणः 'a handful of radishes'; शाकपणः 'a handful of vegetable'. These words secondarily have come to mean 'a measure equal to a handful', irrespective of any thing.
+
+When not meaning measure, we have पणः 'trade'.
+
+Kashika
+-------
+
+**पण व्यवहारे स्तुतौ च** अस्माद् धातोर्नित्यमप् प्रत्ययो भवति परिमाणे गम्यमाने। नित्यग्रहणं विकल्पनिवृत्त्यर्थम्। मूलकपणः। शाकपणः। संव्यवहाराय मूलकादीनां यः परिमितो मुष्टिर्बध्यते, तस्येदमभिधानम्। परिमाण इति किम्? पाणः॥
+
+Siddhanta Kaumudi
+-----------------
+
+अप् स्यात् । मूलकपणः । शाकपणः । व्यवहारार्थं मूलकादीनां परिमितो मुष्टिर्बध्यते सोऽस्य विषयः । परिमाणे किम् । पाणः ॥
+
+Tattvabodhini
+-------------
+
+**नित्यं पणः परिमाणे** - पर्याप्तो भोक्तुमिति । भोक्तुं समर्थ इत्यर्थः ।
+
+Nyaas
+-----
+
+`परिमितः`इति। परिमितो मितः परिच्छिन्नः। द्वयोस्त्रयाणां चतुर्णां वा मूलकादिद्रव्याणां यो मुष्टिः = परिमाणविशेषो बध्यते संव्यवहारार्थः स `मूलकपणः` इत्यादिना शब्देनाभिधीयते॥
+
+Prakriyasarvasvam
+-----------------
+
+क्रयाद्यर्थं परिमितत्वेन कृते द्रव्ये वाच्ये पणेर्नित्यमप् स्यात् । पणः ॥
+
+Sutra Prayogas
+--------------
+
+* **पणाऽयान्** (भट्टिकाव्यम्): `नित्यं पणः परिमाणे` इत्यप्।
+* **क्षीण-पणा** (भट्टिकाव्यम्): `नित्यं पणः परिमाणे` इत्यप्।
+

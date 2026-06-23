@@ -1,0 +1,26 @@
+Sutras 81 - 100
+===============
+
+.. toctree::
+   :maxdepth: 1
+
+   ../sutras/31081
+   ../sutras/31082
+   ../sutras/31083
+   ../sutras/31084
+   ../sutras/31085
+   ../sutras/31086
+   ../sutras/31087
+   ../sutras/31088
+   ../sutras/31089
+   ../sutras/31090
+   ../sutras/31091
+   ../sutras/31092
+   ../sutras/31093
+   ../sutras/31094
+   ../sutras/31095
+   ../sutras/31096
+   ../sutras/31097
+   ../sutras/31098
+   ../sutras/31099
+   ../sutras/31100
